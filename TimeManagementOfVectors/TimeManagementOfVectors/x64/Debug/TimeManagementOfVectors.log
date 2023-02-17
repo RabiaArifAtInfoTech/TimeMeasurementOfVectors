@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\OneDrive - Infotech (Private) Limited\GitFolders\TimeMeasurementOfVectors\TimeManagementOfVectors\TimeManagementOfVectors\Source.cpp(48,12): warning C4101: 'diff1': unreferenced local variable
+E:\OneDrive - Infotech (Private) Limited\GitFolders\TimeMeasurementOfVectors\TimeManagementOfVectors\TimeManagementOfVectors\Source.cpp(9,12): warning C4101: 'diff': unreferenced local variable
+  TimeManagementOfVectors.vcxproj -> E:\OneDrive - Infotech (Private) Limited\GitFolders\TimeMeasurementOfVectors\TimeManagementOfVectors\x64\Debug\TimeManagementOfVectors.exe
